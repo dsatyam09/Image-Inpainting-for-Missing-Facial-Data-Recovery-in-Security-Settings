@@ -33,8 +33,7 @@ Our approach involves:
 ## 🎥 Watch the Project Walkthrough
 
 Click the image below to watch the project walkthrough on YouTube:  
-[![Project Video](image/15.png)](https://www.youtube.com/watch?v=0LLw30HHPl0&ab_channel=satyamdubey)
-
+[**Watch the Project Walkthrough on YouTube**](https://www.youtube.com/watch?v=0LLw30HHPl0&ab_channel=satyamdubey)
 ---
 
 ## 🔧 How to Run This Project
