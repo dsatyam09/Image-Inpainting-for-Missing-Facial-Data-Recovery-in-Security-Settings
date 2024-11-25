@@ -32,11 +32,12 @@ Our approach involves:
 
 ## 🎥 Watch the Project Walkthrough
 
-Click the image below to watch the project walkthrough on YouTube:  
+Click the link 🔗 below to watch the project walkthrough on YouTube:  
 [**Watch the Project Walkthrough on YouTube**](https://www.youtube.com/watch?v=0LLw30HHPl0&ab_channel=satyamdubey)
 ---
 
 ## 🔧 How to Run This Project
+
 
 ### 🖥️ Environment Setup
 
@@ -70,8 +71,7 @@ Modify `configuration.json` to set:
 
 Run a Jupyter notebook server:
 
-```bash
-jupyter notebook
+```
 
 📜 Citation
 If you use this work, please cite:
